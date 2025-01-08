@@ -1,0 +1,21 @@
+{
+  "name": "red-eclipse-dark",
+  "displayName": "red-eclipse",
+  "description": "Red Eclipse is a bold and vibrant VSCode theme that blends deep, dark tones with striking red highlights. Perfect for developers who thrive in a focused, high-contrast coding environment. Let your code shine under the glow of the Red Eclipse!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Red Eclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Red Eclipse-color-theme.json"
+      }
+    ]
+  }
+}
