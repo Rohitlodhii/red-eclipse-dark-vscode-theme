@@ -18,4 +18,4 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 ## Preview to the Theme
 
-![Previewimage](https://ibb.co/D8q7Tb4)
+![Previewimage](https://i.ibb.co/P9S50Yx/image.png)
